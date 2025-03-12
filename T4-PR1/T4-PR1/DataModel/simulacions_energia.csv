@@ -1,0 +1,7 @@
+Data,Tipus,Parametre,Valor,Rati,EnergiaGenerada,CostPerKWh,PreuPerKWh,CostTotal,PreuTotal
+2025-03-12 19:02:25,Sistema Solar,Hores de sol,2,1,2,0,0,0,0
+2025-03-12 19:03:03,Sistema Eòlic,Velocitat del vent (m/s),8,1,512,12,0,6144,0
+2025-03-12 19:05:01,Sistema Hidroelèctric,Cabal d'aigua (m³/s),1,1,9,8,0,56,0,548,8000000000001
+2025-03-12 19:05:29,Sistema Solar,Hores de sol,5,1,5,12,5,2357,62,5,11785
+2025-03-12 19:06:34,Sistema Solar,Hores de sol,6,1,6,12,6,0,75,6,0
+2025-03-12 19:07:05,Sistema Solar,Hores de sol,9,1,9,562,8542,5058,76878

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Consums>
+  <Consum>
+    <Any>2024</Any>
+    <CodiComarca>45</CodiComarca>
+    <Comarca>bnm</Comarca>
+    <Poblacio>908</Poblacio>
+    <DomesticXarxa>67</DomesticXarxa>
+    <ActivitatsEconomiques>9867</ActivitatsEconomiques>
+    <Total>5687</Total>
+    <ConsumPerCapita>9876</ConsumPerCapita>
+  </Consum>
+</Consums>
